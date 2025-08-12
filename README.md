@@ -2,5 +2,5 @@
 <img style="height: auto; width: 43%;" class="img" src="https://github-readme-stats.vercel.app/api?username=LumiLu99&theme=radical&hide_rank=true" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 53%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?usernameLumiLu99&layout=compact&theme=radical&hide=roff&langs_count=5" /></div>
+<img style="height: auto; width: 53%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumiLu99&layout=compact&theme=radical&hide=roff&langs_count=5" /></div>
 </div>
