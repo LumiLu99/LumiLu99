@@ -26,9 +26,9 @@ Software Engineering candidate trained at **42 Kuala Lumpur** and **AWS re/Start
 ---
 
 ### What I'm Currently Focused On
-* ☁️ Deepening cloud architecture patterns & cloud-native automation
-* 📊 Leveraging Python & SQL for scalable backend data pipelines
-* 🤖 Exploring Generative AI integration in software workflows
+* Deepening cloud architecture patterns & cloud-native automation
+* Leveraging Python & SQL for scalable backend data pipelines
+* Exploring Generative AI integration in software workflows
 
 ---
 
