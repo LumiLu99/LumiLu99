@@ -6,11 +6,11 @@ Software Engineering candidate trained at **42 Kuala Lumpur** and **AWS re/Start
 
 ### Featured Projects
 
-* **[HTTP/1.1 Web Server (Webserv)](https://github.com/Lumilu99/webserv)** | `C++`
+* **[HTTP/1.1 Web Server (Webserv)](https://github.com/Lumilu99/42_webserv)** | `C++`
   * Built a custom, non-blocking HTTP/1.1 web server from scratch using raw sockets and I/O multiplexing (`poll` / `select`).
   * Engineered a state-machine parser for HTTP methods (GET/POST/DELETE) and integrated dynamic CGI execution (`fork`, `pipe`, `execve`).
 
-* **[Unix Command-Line Shell (Minishell)](https://github.com/Lumilu99/minishell)** | `C`
+* **[Unix Command-Line Shell (Minishell)](https://github.com/Lumilu99/42_minishell)** | `C`
   * Developed an interactive Unix shell featuring custom tokenization, syntax parsing, environment variables, and execution pipelines (`|`).
   * Managed process lifecycles and file redirections using low-level POSIX system calls (`fork`, `execve`, `waitpid`, `dup2`).
 
